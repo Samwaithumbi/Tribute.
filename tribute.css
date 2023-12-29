@@ -1,0 +1,26 @@
+.description{
+    text-align: center;
+    
+}
+#image{
+    width: 90%;
+    margin: auto;
+    justify-content: center;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    
+}
+h1{
+text-align: center;
+}
+main{
+    width: 50%;
+    margin: auto;
+}
+span{
+    font-weight: bold;
+}
+li{
+    padding: 5px;
+}
