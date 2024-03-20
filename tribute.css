@@ -50,8 +50,7 @@ li{
   @media only screen and (min-width:768px){
     body{
       max-width: 768px;
-      width: 700px;
-      font-size: 30px;
+      width: 700px;  
       position: relative;
     }
     
@@ -60,9 +59,8 @@ li{
     body{
       max-width: 1024px;
       width: 1024px;
-      font-size: 30px;
       position: relative;
-      
+      font-size: 23px;
     }
    main{
     margin: auto;
@@ -73,7 +71,7 @@ li{
     body{
       max-width: 2560px;
       width: 2560px;
-      font-size: 30px;
+      font-size: 59px;
       position: relative;
     }
    main{
