@@ -1,81 +1,12 @@
-
-.description{
-    text-align: center;
-    
+#title{
+  text-align: center;
+  text-decoration: underline;
 }
 #image{
-    width: 100%;
-    margin: auto;
-    justify-content: center;
-    display: block;
-    max-width: 150%;
-    height: auto;
-}
-h1{
-text-align: center;
+height: 100%;
+width: 100%;
 }
 main{
-    width: 50%;
-    margin: auto;
-}
-span{
-    font-weight: bold;
-}
-li{
-    padding: 5px;
-}
-@media only screen and (max-width:320px){
-    body{
-      width: 320px;
-      font-size: 15px;
-    }
-    main{
-        width: 100%;
-        margin: auto;
-    }
+  font-family: sans-serif;
   
-   }
-  
-  @media only screen and (min-width:375px){
-    body{
-      max-width: 375px;
-      width: 375px;
-      font-size: 20px;
-     margin-left: 50px;
-    }
-  main{
-    width: 100%;
-  }
-  }
-  @media only screen and (min-width:768px){
-    body{
-      max-width: 768px;
-      width: 700px;  
-      position: relative;
-    }
-    
-  }
-  @media only screen and (min-width:1024px){
-    body{
-      max-width: 1024px;
-      width: 1024px;
-      position: relative;
-      font-size: 23px;
-    }
-   main{
-    margin: auto;
-    margin-left: 70px;
-   }
-  }
-  @media only screen and (min-width:2560px){
-    body{
-      max-width: 2560px;
-      width: 2560px;
-      font-size: 59px;
-      position: relative;
-    }
-   main{
-    margin: auto;
-    width: 90%;
-   }
-  }
+}
